@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My main languages are JavaScript/Typescript, C#, and Python
+- My main languages are JavaScript/Typescript, C#, and Python.
 
 <!--
 **TheoJoha/TheoJoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
